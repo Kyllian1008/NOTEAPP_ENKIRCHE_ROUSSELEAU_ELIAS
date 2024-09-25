@@ -1,4 +1,4 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 /** impoter les packages */
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 import androidx.activity.viewModels
-import fr.esilv.noteappguettab_combaret.databinding.ActivityAddNoteBinding
+import fr.esilv.noteappenkirche_rousseleau.databinding.ActivityAddNoteBinding
 
 class AddNoteActivity : AppCompatActivity() {
     /** déclarer les variables */

@@ -1,4 +1,4 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 
 class NoteRepository(private val noteDao: NoteDao) {

@@ -1,4 +1,4 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 import androidx.lifecycle.LiveData
 import androidx.room.*

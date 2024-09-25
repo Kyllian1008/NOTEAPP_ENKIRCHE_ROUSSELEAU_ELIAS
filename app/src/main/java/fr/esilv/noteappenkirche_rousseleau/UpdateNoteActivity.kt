@@ -1,11 +1,11 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
-import fr.esilv.noteappguettab_combaret.databinding.ActivityUpdateNoteBinding
+import fr.esilv.noteappenkirche_rousseleau.databinding.ActivityUpdateNoteBinding
 
 class UpdateNoteActivity : AppCompatActivity() {
 

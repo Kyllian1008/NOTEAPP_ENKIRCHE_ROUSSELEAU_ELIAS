@@ -1,4 +1,4 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 import android.content.Context
 import android.content.Intent
@@ -9,7 +9,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import fr.esilv.noteappguettab_combaret.R
 
 class NotesAdapter(private var notes: List<Note>, private val context: Context): RecyclerView.Adapter<NotesAdapter.NoteViewHolder>() {
 

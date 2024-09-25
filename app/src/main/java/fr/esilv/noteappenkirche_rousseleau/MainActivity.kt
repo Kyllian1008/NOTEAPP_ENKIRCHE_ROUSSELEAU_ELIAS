@@ -1,4 +1,4 @@
-package fr.esilv.noteappguettab_combaret
+package fr.esilv.noteappenkirche_rousseleau
 
 
 import android.content.Intent
@@ -7,7 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.activity.viewModels
 import androidx.recyclerview.widget.GridLayoutManager
-import fr.esilv.noteappguettab_combaret.databinding.ActivityMainBinding
+import com.google.android.material.floatingactionbutton.FloatingActionButton
+import fr.esilv.noteappenkirche_rousseleau.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
